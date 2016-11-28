@@ -3,3 +3,7 @@ div {
     border: 1px solid aquamarine;
     padding: 40px
 }
+
+div:hover {
+    background-color: green;
+}
