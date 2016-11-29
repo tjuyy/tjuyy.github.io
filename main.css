@@ -2,6 +2,11 @@
     font-family: 'Tillana', serif;
 }
 
+hr {
+    width: 10%;
+    margin-left: 0;
+}
+
 div {
     background-color: azure;
     border: 1px solid aquamarine;
