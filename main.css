@@ -1,5 +1,5 @@
 * {
-    font-family: 'Tillana';
+    font-family: 'Tillana', serif;
 }
 
 div {
@@ -14,7 +14,7 @@ div:hover {
 
 h1,
 h2 {
-    font-family: 'Pacifico';
+    font-family: 'Pacifico', serif;
     font-size: 40px;
     font-weight: bold;
     text-shadow: 4px 4px 4px #aaa;
@@ -22,7 +22,7 @@ h2 {
 }
 
 p {
-    font-family: 'Tillana';
+    font-family: 'Tillana', serif;
     font-size: 20px;
     font-weight: regular;
     color: black;
