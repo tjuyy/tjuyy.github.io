@@ -1,3 +1,7 @@
+* {
+    font-family: 'Tillana';
+}
+
 div {
     background-color: azure;
     border: 1px solid aquamarine;
@@ -5,5 +9,21 @@ div {
 }
 
 div:hover {
-    background-color: green;
+    background-color: #ccc;
+}
+
+h1,
+h2 {
+    font-family: 'Pacifico';
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 4px 4px 4px #aaa;
+    color: blue;
+}
+
+p {
+    font-family: 'Tillana';
+    font-size: 20px;
+    font-weight: regular;
+    color: black;
 }
