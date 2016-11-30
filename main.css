@@ -32,3 +32,30 @@ p {
     font-weight: regular;
     color: black;
 }
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+ul li::before {
+    content: "\f000";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    font-size: 20px;
+    color: green;
+    margin-right: 5px;
+    /*--adjust as necessary--*/
+    /*    color: #aaa;
+    font-size: 18px;
+    padding-right: 0.5em;
+    position: absolute;
+    top: 10px;
+    left: 0;*/
+}
