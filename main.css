@@ -59,3 +59,25 @@ ul li::before {
     top: 10px;
     left: 0;*/
 }
+
+a:link {
+    /* unvisited link */
+    color: green;
+}
+
+a:visited {
+    /* visited link */
+    color: red;
+}
+
+a:hover {
+    /* mouse over link */
+    font-size: 30px
+}
+
+a:active {
+    /* selected link (i.e., you've clicked
+    but not released on the link)
+ */
+    color: black;
+}
