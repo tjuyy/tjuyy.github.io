@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Pacifico|Tillana">
     <link rel="stylesheet" type="text/css" href="main.css">
     <script src="https://use.fontawesome.com/7787385ecc.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
 </head>
 
 <body>
@@ -29,6 +30,17 @@
             <a href="https://github.com/tjuyy">github.com/tjuyy</a></p>
         <p>Email: <a href="mailto://yuyang1991@tju.edu.cn">yuyang1991@tju.edu.cn</a></p>
     </div>
+    <script type="text/javascript">
+    $("button").click(function() {
+        $.getJSON("pm2_5.json", function(result) {
+            $.each(result, function(i, field) {
+                $("p").append(field + " ");
+            });
+        });
+    });
+    </script>
+    <button>获得JSON数据</button>
+    <p></p>
 </body>
 
 </html>

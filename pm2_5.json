@@ -1,1 +1,123 @@
-[{ "aqi": 189, "area": "上海", "pm2_5": 142, "pm2_5_24h": 98, "position_name": "十五厂", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "中度污染", "station_code": "1142A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 165, "area": "上海", "pm2_5": 125, "pm2_5_24h": 101, "position_name": "虹口", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "中度污染", "station_code": "1143A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 178, "area": "上海", "pm2_5": 134, "pm2_5_24h": 89, "position_name": "徐汇上师大", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "中度污染", "station_code": "1144A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 202, "area": "上海", "pm2_5": 152, "pm2_5_24h": 105, "position_name": "杨浦四漂", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "重度污染", "station_code": "1145A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 139, "area": "上海", "pm2_5": 106, "pm2_5_24h": 79, "position_name": "青浦淀山湖", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "轻度污染", "station_code": "1146A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 211, "area": "上海", "pm2_5": 161, "pm2_5_24h": 106, "position_name": "静安监测站", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "重度污染", "station_code": "1147A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 169, "area": "上海", "pm2_5": 128, "pm2_5_24h": 101, "position_name": "浦东川沙", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "中度污染", "station_code": "1148A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 193, "area": "上海", "pm2_5": 145, "pm2_5_24h": 99, "position_name": "浦东新区监测站", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "中度污染", "station_code": "1149A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 179, "area": "上海", "pm2_5": 135, "pm2_5_24h": 97, "position_name": "浦东张江", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "中度污染", "station_code": "1150A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 163, "area": "上海", "pm2_5": 124, "pm2_5_24h": 84, "position_name": "普陀", "primary_pollutant": "细颗粒物(PM2.5)", "quality": "中度污染", "station_code": "1141A", "time_point": "2016-11-19T14:00:00Z" }, { "aqi": 179, "area": "上海", "pm2_5": 135, "pm2_5_24h": 95, "position_name": null, "primary_pollutant": "颗粒物(PM2.5)", "quality": "中度污染", "station_code": null, "time_point": "2016-11-19T14:00:00Z" }]
+[
+  {
+    "aqi": 189,
+    "area": "上海",
+    "pm2_5": 142,
+    "pm2_5_24h": 98,
+    "position_name": "十五厂",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": "1142A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 165,
+    "area": "上海",
+    "pm2_5": 125,
+    "pm2_5_24h": 101,
+    "position_name": "虹口",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": "1143A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 178,
+    "area": "上海",
+    "pm2_5": 134,
+    "pm2_5_24h": 89,
+    "position_name": "徐汇上师大",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": "1144A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 202,
+    "area": "上海",
+    "pm2_5": 152,
+    "pm2_5_24h": 105,
+    "position_name": "杨浦四漂",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "重度污染",
+    "station_code": "1145A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 139,
+    "area": "上海",
+    "pm2_5": 106,
+    "pm2_5_24h": 79,
+    "position_name": "青浦淀山湖",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "轻度污染",
+    "station_code": "1146A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 211,
+    "area": "上海",
+    "pm2_5": 161,
+    "pm2_5_24h": 106,
+    "position_name": "静安监测站",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "重度污染",
+    "station_code": "1147A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 169,
+    "area": "上海",
+    "pm2_5": 128,
+    "pm2_5_24h": 101,
+    "position_name": "浦东川沙",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": "1148A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 193,
+    "area": "上海",
+    "pm2_5": 145,
+    "pm2_5_24h": 99,
+    "position_name": "浦东新区监测站",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": "1149A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 179,
+    "area": "上海",
+    "pm2_5": 135,
+    "pm2_5_24h": 97,
+    "position_name": "浦东张江",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": "1150A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 163,
+    "area": "上海",
+    "pm2_5": 124,
+    "pm2_5_24h": 84,
+    "position_name": "普陀",
+    "primary_pollutant": "细颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": "1141A",
+    "time_point": "2016-11-19T14:00:00Z"
+  },
+  {
+    "aqi": 179,
+    "area": "上海",
+    "pm2_5": 135,
+    "pm2_5_24h": 95,
+    "position_name": null,
+    "primary_pollutant": "颗粒物(PM2.5)",
+    "quality": "中度污染",
+    "station_code": null,
+    "time_point": "2016-11-19T14:00:00Z"
+  }
+]
